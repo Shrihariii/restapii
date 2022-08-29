@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/89a0b6b4-9c16-4f52-92ba-8240c8df6329/microsoft.web/sites/subscriptions/89a0b6b4-9c16-4f52-92ba-8240c8df6329/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/restaoi123",
+    "appService.deploySubpath": "."
+}
